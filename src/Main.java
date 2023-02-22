@@ -11,12 +11,12 @@ public class Main {
         String middleName = "Ivanovich";
         String lastName = "Ivanov ";
         String fullName = lastName + firstName + middleName;
-        {
+
             System.out.println("«ФИО сотрудника —" + fullName + "»");
 
 
         }
-    }
+
 
     public static void task2() {
         System.out.println("Задача 2");
